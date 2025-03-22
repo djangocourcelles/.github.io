@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://djangocourcelles.github.io/sitemap.xml
+Sitemap: https://djangocourcelles/sitemap.xml
